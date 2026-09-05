@@ -1,10 +1,10 @@
 command : `thunar` <br> flags : `.` , `<dir path>` , `../` , `path/..`  <br><br>
 command : `ps aux` <br> flags : `simple` , `list` , `output` , `aux` , `misc` , `all` , `threads` <br><br>
 command : `top` , `htop` , `btop`  <br> flags : `simple` , `list` , `output` , `aux` , `misc` , `all` , `threads` <br><br>
-command : `pwd` <br> flags : -L , -P <br><br>
+command : `pwd` <br> flags : `-L` , `-P` <br><br>
 command : `ls` <br> flags : -a , -A , -l , -h , -R , -t , -r , -S , -1 <br><br>
 command : `cd` <br> flags : -L , -P , ~ , .. , - <br><br>
-command : `mkdir` <br> flags : -p , -m , -v <br><br>
+command : `mkdir` <br> flags : `-p` , `-m` , `-v` <br><br>
 command : `rmdir` <br> flags : -p , -v , --ignore-fail-on-non-empty <br><br>
 command : `touch` <br> flags : -a , -m , -c , -d , -r , -t <br><br>
 command : `cp` <br> flags : -a , -r , -R , -i , -f , -v , -u , -n <br><br>
